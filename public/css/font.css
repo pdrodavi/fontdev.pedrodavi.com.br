@@ -4,12 +4,12 @@
 }
 
 .font-badge {
-    color: #378c3f;
+    color: #59666c;
     font-size: 3.0em;
 }
 
 .font-wpp {
-    color: #378c3f;
+    color: #2c2c2c;
     font-size: 1.0em;
 }
 
@@ -17,7 +17,7 @@
 	position:fixed;
 	bottom: 20px;
 	right: 20px;
-    color: #378c3f;
+    color: #5E5E5E;
     font-size: 2.5em;
     display:none;
 }

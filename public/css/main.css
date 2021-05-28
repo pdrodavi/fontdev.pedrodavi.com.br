@@ -1,29 +1,3 @@
-/*!
-
- =========================================================
- * Now-ui-kit - v1.1.0
- =========================================================
-
- * Product Page: http://www.creative-tim.com/product/now-ui-kit
- * Copyright 2017 Creative Tim (http://www.creative-tim.com)
- * Licensed under MIT (https://github.com/creativetimofficial/now-ui-kit/blob/master/LICENSE.md)
-
- * Designed by www.invisionapp.com Coded by www.creative-tim.com
-
- =========================================================
-
- * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
- */
-/*     brand Colors              */
-/*      light colors         */
-/* ========================================================================
- * bootstrap-switch - v3.3.2
- * http://www.bootstrap-switch.org
- * ========================================================================
- * Copyright 2012-2013 Mattia Larentis
- * http://www.apache.org/licenses/LICENSE-2.0
- */
 .bootstrap-switch {
   display: inline-block;
   direction: ltr;
@@ -1254,13 +1228,13 @@
     top: 1px; }
 
 .btn-primary {
-  background-color: #378C3F;
+  background-color: #59666C;
   color: #FFFFFF; }
   .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .btn-primary:active:focus, .btn-primary:active:hover, .btn-primary.active:focus, .btn-primary.active:hover,
   .show > .btn-primary.dropdown-toggle,
   .show > .btn-primary.dropdown-toggle:focus,
   .show > .btn-primary.dropdown-toggle:hover {
-    background-color: #40a249;
+    background-color: #404040;
     color: #FFFFFF;
     box-shadow: none; }
   .btn-primary:hover {
@@ -2208,7 +2182,7 @@ small {
 a {
   color: #378C3F; }
   a:hover, a:focus {
-    color: #378C3F; }
+    color: #969696; }
 
 h1, .h1 {
   font-size: 3.5em;
@@ -2598,7 +2572,7 @@ body {
   background-color: #888 !important; }
 
 .bg-primary {
-  background-color: #378C3F !important; }
+  background-color: #59666c !important; }
 
 .bg-info {
   background-color: #2CA8FF !important; }
@@ -2653,9 +2627,9 @@ body {
     text-transform: uppercase;
     font-weight: 700; }
   .dropdown-menu.dropdown-primary {
-    background-color: #33813a; }
+    background-color: #59666c; }
     .dropdown-menu.dropdown-primary:before {
-      color: #33813a; }
+      color: #59666c; }
     .dropdown-menu.dropdown-primary .dropdown-header:not([href]):not([tabindex]) {
       color: rgba(255, 255, 255, 0.8); }
     .dropdown-menu.dropdown-primary .dropdown-item {
@@ -2689,9 +2663,9 @@ body {
     .dropdown-menu.dropdown-danger .dropdown-divider {
       background-color: rgba(255, 255, 255, 0.2); }
   .dropdown-menu.dropdown-success {
-    background-color: #16c00e; }
+    background-color: #59666c; }
     .dropdown-menu.dropdown-success:before {
-      color: #16c00e; }
+      color: #59666c; }
     .dropdown-menu.dropdown-success .dropdown-header:not([href]):not([tabindex]) {
       color: rgba(255, 255, 255, 0.8); }
     .dropdown-menu.dropdown-success .dropdown-item {
@@ -4132,12 +4106,12 @@ Created using IcoMoon - icomoon.io
     transform: translate3d(300px, 0, 0);
     transition: all 0.5s cubic-bezier(0.685, 0.0473, 0.346, 1); }
     .sidebar-collapse .navbar-collapse:before {
-      background: #378C3F;
+      background: #59666c;
       /* For browsers that do not support gradients */
       /* For Safari 5.1 to 6.0 */
       /* For Opera 11.1 to 12.0 */
       /* For Firefox 3.6 to 15 */
-      background: linear-gradient(#378C3F 0%, #000 80%);
+      /*background: linear-gradient(#59666c 0%, #343c3f 80%);
       /* Standard syntax (must be last) */
       opacity: 0.76;
       filter: alpha(opacity=76);
@@ -5123,7 +5097,7 @@ Created using IcoMoon - icomoon.io
   /* For Safari 5.1 to 6.0 */
   /* For Opera 11.1 to 12.0 */
   /* For Firefox 3.6 to 15 */
-  background: linear-gradient(0deg, rgba(44, 44, 44, 0.2), rgba(55, 140, 63, 0.6));
+  background: linear-gradient(0deg, rgba(44, 44, 44, 0.2), rgba(55, 116, 140, 0.6));
   /* Standard syntax */ }
   .page-header .btn {
     width: 140px; }
@@ -5153,7 +5127,7 @@ Created using IcoMoon - icomoon.io
 
 .cc-profile-image a:before {
   content: "";
-  border: 15px solid rgba(55, 140, 63, 0.6);
+  border: 15px solid rgba(17, 135, 204, 0.6);
   border-radius: 50%;
   height: 180px;
   width: 180px;
@@ -5238,7 +5212,7 @@ Created using IcoMoon - icomoon.io
   background: #a5a3a3; }
 
 .cc-reference .carousel-indicators .active {
-  background-color: #378C3F; }
+  background-color: #5e5e5e; }
 
 .cc-reference .carousel-inner {
   box-shadow: none; }
